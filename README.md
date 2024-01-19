@@ -10,7 +10,6 @@ You are asked to accomplish three main tasks:
 
 3. Data Analysis: Analyze the data to identify possible fraudulent transactions trends data, and develop a report of your observations.
 
-
 ## Report to CFO
 In response to the CFO, here is what I found.
 
@@ -25,3 +24,8 @@ Is there a higher number of fraudulent transactions made during this time frame 
 
 What are the top 5 merchants prone to being hacked using small transactions?
 - Wood-Ramirez (7), Hood-Phillips (6), Baker Inc (6), Clark and Sons (5), and Greene-Wood (5).
+
+What difference do you observe between the consumption patterns between id 2 and id 18? Does the difference suggest a fraudulent transaction?
+- Individual spending habits can vary, but what I noticed was the big spikes in cardholder 18's graph. Cardholder 18 exhibits sporadic spikes in activity with larger transactions. The irregularity and the significant variations in transaction amounts may suggest less predictable spending behavior.
+Cardholder 2 appears to have frequent small transactions. This could be indicative of regular, everyday spending on smaller items.
+- More factors may be needed for analysis, such as problematic merchants or inconsistent spending locations.
